@@ -1,1 +1,1 @@
-# Beetroot_django
+This is educational django first try tutorial for beetroot
